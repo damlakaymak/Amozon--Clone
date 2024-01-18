@@ -1,8 +1,8 @@
-## AMOZON CLONE 
+## AMOZON CLONE
 
-- HTML, CSS kullanılarak tasarlandı.
+-HTML,CSS kullanılarak tasarlandı.
 
 
 ## GİF
 
-<img src= "screen (4).gif">
+<img src="screen (4).gif">
